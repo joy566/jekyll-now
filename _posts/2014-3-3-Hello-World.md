@@ -3,6 +3,4 @@ layout: post
 title: ''
 published: true
 ---
-##
-
-****__boat
+__boat
